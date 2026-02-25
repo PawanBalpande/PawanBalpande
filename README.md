@@ -8,7 +8,7 @@
 - 📱 Passionate about **Android Development**, Kotlin, UI/UX & modern app architecture  
 - 🚀 Always exploring new tools, frameworks, and tech  
 - 📍 Based in **Maharashtra, India**
-- 📫 Reach me at: **pavanbalpande@gmail.com**
+- 📫 Reach me at: **pawanbalpande00@gmail.com**
 
 ---
 
@@ -67,10 +67,10 @@
 
 ### 🚀 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/pawan-balpande/>
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:pavanbalpande@gmail.com">
+  <a href="mailto:pawanbalpande00@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
