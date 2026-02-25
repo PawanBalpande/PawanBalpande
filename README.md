@@ -1,10 +1,85 @@
-- 👋 Hi, I’m PawanBalpande
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...c++ / DSA / App devlopement / python / web development / machine learning
-- 💞️ I’m looking to collaborate on ...making websites
-- 📫 How to reach me ...just drop a mail
+<h1 align="center">Hi 👋, I'm Pavan Pravin Balpande</h1>
+<h3 align="center">💻 Graduate Apprentice | Android Developer | Tech Explorer</h3>
 
-<!---
-PawanBalpande/PawanBalpande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🌟 About Me
+- 🎓 Currently working as a **Graduate Apprentice**
+- 📱 Passionate about **Android Development**, Kotlin, UI/UX & modern app architecture  
+- 🚀 Always exploring new tools, frameworks, and tech  
+- 📍 Based in **Maharashtra, India**
+- 📫 Reach me at: **pavanbalpande@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+#### **Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,c,cpp" />
+</p>
+
+#### **Mobile Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,gradle,firebase" />
+</p>
+
+#### **UI/UX & Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,html,css" />
+</p>
+
+#### **Tools & Platforms**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" />
+</p>
+
+#### **Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+---
+
+### 📱 What I Love Building
+- 🚀 Android Apps with **Kotlin & Jetpack**
+- 🧩 MVVM + Clean Architecture projects  
+- 🎨 Modern UI with Material Design  
+- 🔧 Utility & productivity apps  
+- 🌐 Apps that solve real-world problems  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PavanBalpande&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanBalpande&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PavanBalpande&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:pavanbalpande@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+### ✨ Quote That Inspires Me
+> _“The best way to predict the future is to create it.”_
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**  
