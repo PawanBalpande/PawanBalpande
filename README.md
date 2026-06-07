@@ -4,8 +4,8 @@
 ---
 
 ### 🌟 About Me
-- 🎓 Currently working as a **Graduate Apprentice**
-- 📱 Passionate about **Android Development**, Kotlin, UI/UX & modern app architecture  
+- 🎓 Currently working as a **Software Developer**
+- 📱 Passionate about **GEN AI | RAG | LLM**, Kotlin, UI/UX & modern app architecture  
 - 🚀 Always exploring new tools, frameworks, and tech  
 - 📍 Based in **Maharashtra, India**
 - 📫 Reach me at: **pawanbalpande00@gmail.com**
