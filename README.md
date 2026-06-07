@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavan Pravin Balpande</h1>
-<h3 align="center">💻 Graduate Apprentice | Android Developer | Tech Explorer</h3>
+<h3 align="center">💻 Software Developer | AGENTIC AI | Tech Explorer</h3>
 
 ---
 
