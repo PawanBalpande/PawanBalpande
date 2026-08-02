@@ -1,85 +1,64 @@
-<h1 align="center">Hi 👋, I'm Pavan Pravin Balpande</h1>
-<h3 align="center">💻 Software Developer | AGENTIC AI | Tech Explorer</h3>
-
----
-
-### 🌟 About Me
-- 🎓 Currently working as a **Software Developer**
-- 📱 Passionate about **GEN AI | RAG | LLM**, Kotlin, UI/UX & modern app architecture  
-- 🚀 Always exploring new tools, frameworks, and tech  
-- 📍 Based in **Maharashtra, India**
-- 📫 Reach me at: **pawanbalpande00@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-#### **Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,python,c,cpp" />
-</p>
-
-#### **Mobile Development**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,gradle,firebase" />
-</p>
-
-#### **UI/UX & Frontend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,html,css" />
-</p>
-
-#### **Tools & Platforms**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" />
-</p>
-
-#### **Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
----
-
-### 📱 What I Love Building
-- 🚀 Android Apps with **Kotlin & Jetpack**
-- 🧩 MVVM + Clean Architecture projects  
-- 🎨 Modern UI with Material Design  
-- 🔧 Utility & productivity apps  
-- 🌐 Apps that solve real-world problems  
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PavanBalpande&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanBalpande&layout=compact&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/PawanBalpande/PawanBalpande/main/assets/header.svg" alt="Pavan — AI Engineer" width="100%">
 </p>
 
----
-
-### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PavanBalpande&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=RAG+systems+that+survive+contact+with+real+documents;LangGraph+agents+that+don't+loop+forever;Evaluation+harnesses+before+vibes" alt="">
 </p>
 
 ---
 
-### 🚀 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/pawan-balpande/>
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:pawanbalpande00@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+I build RAG systems and LLM agents that run in production, not in notebooks. Software Engineer at LTIMindtree; most of my work sits at the boring-but-hard end of applied AI — retrieval quality, agent orchestration, evaluation you can actually trust, and getting all of it deployed without a GPU budget.
+
+---
+
+### What I'm building
+
+**[RAGDocs AI](https://github.com/PawanBalpande/REPO)** — Document Q&A over PDFs with source-grounded answers.
+`pdfplumber` → `LangChain` → `FAISS` → `Groq`. Containerised, with a Ragas evaluation harness and a golden dataset so retrieval regressions get caught before users do.
+
+**[WhatsApp Lead Qualification Agent](https://github.com/PawanBalpande/REPO)** — A stateful agent that qualifies inbound leads for coaching institutes and study-abroad consultants over WhatsApp.
+`FastAPI` · `LangGraph` · `Meta WhatsApp Cloud API` · `Supabase`. Conversation state survives restarts; handoff to a human happens on defined triggers rather than vibes.
+
+**[Claims Verification System](https://github.com/PawanBalpande/REPO)** — Multi-step LangGraph pipeline that decomposes a claim, retrieves evidence per sub-claim, and returns a verdict with citations.
+
+**[EventBuddy](https://github.com/PawanBalpande/REPO)** — Native Android app for campus event discovery. `Kotlin` · `Firebase`.
+
+---
+
+### Stack
+
+**Core** Python · FastAPI · LangChain · LangGraph · LlamaIndex
+**Retrieval** FAISS · Qdrant · Pinecone · Chroma · hybrid search, reranking, metadata filtering
+**Models** Groq · Gemini · OpenAI · open-weight models via Ollama
+**Eval & Ops** Ragas · LangSmith · Docker · GitHub Actions
+**Cloud** AWS · Azure · GCP
+**Also** PostgreSQL · Supabase · Kotlin
+
+---
+
+### Selected
+
+🏆 **Smart India Hackathon 2023** — National winner, ₹1,00,000 prize (Government of India)
+🏆 **Innovation R US 2024** — Winner
+🎯 **Flipkart GRiD** — Qualified
+
+---
+
+### Currently
+
+Running **[Nori Dev Studio](https://github.com/noridevstudio)** — AI systems for Indian SMBs. Shipped for a chess coaching academy; currently building conversational agents for education businesses.
+
+Prepping GATE 2027 (Data Science & AI) alongside the day job.
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PawanBalpande/PawanBalpande/output/snake.svg" alt="contribution snake" width="100%">
 </p>
 
 ---
 
-### ✨ Quote That Inspires Me
-> _“The best way to predict the future is to create it.”_
+### Reach me
 
----
-
-⭐ **If you like my work, consider giving a star to my repositories!**  
+[LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [Email](mailto:pawanbalpande00@gmail.com) · Pune, India — open to Bangalore and Hyderabad
