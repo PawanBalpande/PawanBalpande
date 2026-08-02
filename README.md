@@ -54,7 +54,14 @@ Prepping GATE 2027 (Data Science & AI) alongside the day job.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PawanBalpande/PawanBalpande/output/snake.svg" alt="contribution snake" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/PawanBalpande/PawanBalpande/output/snake-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/PawanBalpande/PawanBalpande/output/snake.svg?v=2">
+    <img alt="contribution snake" width="100%"
+         src="https://raw.githubusercontent.com/PawanBalpande/PawanBalpande/output/snake.svg?v=2">
+  </picture>
 </p>
 
 ---
