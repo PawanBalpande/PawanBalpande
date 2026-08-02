@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PawanBalpande/PawanBalpande/main/assets/header.svg" alt="Pavan — AI Engineer" width="100%">
+  <img src="https://raw.githubusercontent.com/PawanBalpande/PawanBalpande/main/header.svg" alt="Pavan — AI Engineer" width="100%">
 </p>
 
 <p align="center">
